@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>e3b8c21e93c926508d88f5befaba1045</logo>
+        <menu/>
+        <name>Employee Service Center</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_742101_employee</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_742101_employee</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 23:36:30</sys_created_on>
+        <sys_id>f6b80656934926508d88f5befaba10d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 23:36:33</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=f6b80656934926508d88f5befaba10d9"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>logo</file_name>
+        <hash>76a56aec48ed405e4dcecb83b6b08d796045896a5c96a3d89f4dfb3db23b47d6</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4935</size_bytes>
+        <size_compressed>2024</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 23:36:33</sys_created_on>
+        <sys_id>e3b8c21e93c926508d88f5befaba1045</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-23 23:36:33</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>f6b80656934926508d88f5befaba10d9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="e3b8c21e93c926508d88f5befaba1045">e3b8c21e93c926508d88f5befaba1045</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 23:36:33</sys_created_on>
+        <sys_id>27b8c21e93c926508d88f5befaba1045</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2688</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="e3b8c21e93c926508d88f5befaba1045">e3b8c21e93c926508d88f5befaba1045</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 23:36:33</sys_created_on>
+        <sys_id>a7b8c21e93c926508d88f5befaba1045</sys_id>
+    </sys_attachment_doc>
+</record_update>
