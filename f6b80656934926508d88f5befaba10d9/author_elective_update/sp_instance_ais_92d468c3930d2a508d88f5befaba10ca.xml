@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">34e3ec03930d2a508d88f5befaba1021</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-26 00:15:32</sys_created_on>
+        <sys_id>92d468c3930d2a508d88f5befaba10ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Service Center" source="x_742101_employee">f6b80656934926508d88f5befaba10d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</sys_scope>
+        <sys_update_name>sp_instance_ais_92d468c3930d2a508d88f5befaba10ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-26 00:15:32</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=92d468c3930d2a508d88f5befaba10ca"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</application>
+        <file_path/>
+        <instance_id>454ce04393d8a650611eddd548373c63</instance_id>
+        <instance_name>dev303130</instance_name>
+        <name>sp_instance_ais_92d468c3930d2a508d88f5befaba10ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="3">34e3ec03930d2a508d88f5befaba1021</sp_column><sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-26 00:15:32</sys_created_on><sys_id>92d468c3930d2a508d88f5befaba10ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Employee Service Center" source="x_742101_employee">f6b80656934926508d88f5befaba10d9</sys_package><sys_policy/><sys_scope display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</sys_scope><sys_update_name>sp_instance_ais_92d468c3930d2a508d88f5befaba10ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-26 00:15:32</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=92d468c3930d2a508d88f5befaba10ca"/></record_update>]]></payload>
+        <payload_hash>150565072</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c43a8e9e93c926508d88f5befaba108f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-26 00:15:32</sys_created_on>
+        <sys_id>96d468c3930d2a508d88f5befaba10cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1966f730a2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-26 00:15:32</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>9ad468c3d80d2a501ff5c214851483cc</update_guid>
+        <update_guid_history>9ad468c3d80d2a501ff5c214851483cc:150565072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1fe5164793856a508d88f5befaba10db</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-26 08:29:35</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>7a146bd681f743be9e24013df1ef34e4</sys_id>
+        <sys_metadata>92d468c3930d2a508d88f5befaba10ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Service Center" source="x_742101_employee">f6b80656934926508d88f5befaba10d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</sys_scope>
+        <sys_scope_delete display_value="">07487c20b845476094501c3bcc908900</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_92d468c3930d2a508d88f5befaba10ca</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_92d468c3930d2a508d88f5befaba10ca">96d468c3930d2a508d88f5befaba10cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-26 08:29:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

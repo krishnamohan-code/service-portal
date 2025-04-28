@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.thumbnail{
+    border-radius : 20px;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>responsive grid</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 10:17:57</sys_created_on>
+        <sys_id>c7a18dff93c122108d88f5befaba1047</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>responsive grid</sys_name>
+        <sys_package display_value="Employee Service Center" source="x_742101_employee">f6b80656934926508d88f5befaba10d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</sys_scope>
+        <sys_update_name>sp_widget_c7a18dff93c122108d88f5befaba1047</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 10:33:04</sys_updated_on>
+        <template><![CDATA[<div class="row" >
+  <div class="col-sm-6 col-md-4" ng-repeat = "i in [1,2,3,4,5,6,7,8,9]">
+    <div class="thumbnail">
+      <!--<img src="..." alt="..."> -->
+      <div class="caption">
+        <h3>Thumbnail label</h3>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+        <p><a href="javascript:void(0)" class="btn btn-primary" role="button">Button</a> <a href="javascript:void(0)" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

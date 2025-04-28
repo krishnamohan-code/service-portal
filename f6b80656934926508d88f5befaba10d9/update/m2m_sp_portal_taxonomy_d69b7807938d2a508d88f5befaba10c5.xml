@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy">
+    <m2m_sp_portal_taxonomy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sp_portal display_value="Persistent Employee Center">423a0212930d26508d88f5befaba109a</sp_portal>
+        <sys_class_name>m2m_sp_portal_taxonomy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-26 01:54:56</sys_created_on>
+        <sys_id>d69b7807938d2a508d88f5befaba10c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Persistent Employee Center.Employee</sys_name>
+        <sys_package display_value="Employee Service Center" source="x_742101_employee">f6b80656934926508d88f5befaba10d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Service Center">f6b80656934926508d88f5befaba10d9</sys_scope>
+        <sys_update_name>m2m_sp_portal_taxonomy_d69b7807938d2a508d88f5befaba10c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-26 01:54:56</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+    </m2m_sp_portal_taxonomy>
+</record_update>
